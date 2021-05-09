@@ -1,3 +1,5 @@
+<img src="https://github.com/abhayanigam/Learn_Python_Programming/blob/main/Assets/python.png" align="right" width="250" align="right" />
+
 # Learn Python Programming
 
 Created by - Abhaya Nigam 
@@ -14,7 +16,7 @@ Created by - Abhaya Nigam
 - But if not... [Visit Here](https://www.youtube.com/playlist?list=PLGLfVvz_LVvTn3cK5e6LjhgGiSeVlIRwt)
   - Or you can learn on the go!
 
-
+<img src="https://github.com/abhayanigam/Learn_Python_Programming/blob/main/Assets/content.png" align="right" width="200" align="right" />
 
 ## Table Of Contents <a name="top"></a>
 
@@ -1458,6 +1460,9 @@ Ever wondered how this works? Python implements this using Iterables and Iterato
     >>> next(b1)
     'r'
     ```
+
+
+<img src="https://github.com/abhayanigam/Learn_Python_Programming/blob/main/Assets/idea.png" align="right" width="200" align="right" />
 
 #### **Intuition**
 
